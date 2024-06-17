@@ -1,0 +1,6 @@
+@FinalProductCreationSystem_HostAddress = http://localhost:5274
+
+GET {{FinalProductCreationSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

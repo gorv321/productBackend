@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|c:\\users\\hp\\desktop\\project-6\\finalproductcreationsystem\\finalproductcreationsystem\\controllers\\productconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|solutionrelative:finalproductcreationsystem\\controllers\\productconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Migrations\\20240617072432_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinalProductCreationSystem\\Migrations\\20240617072432_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|c:\\users\\hp\\desktop\\project-6\\finalproductcreationsystem\\finalproductcreationsystem\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|solutionrelative:finalproductcreationsystem\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|c:\\users\\hp\\desktop\\project-6\\finalproductcreationsystem\\finalproductcreationsystem\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|solutionrelative:finalproductcreationsystem\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|c:\\users\\hp\\desktop\\project-6\\finalproductcreationsystem\\finalproductcreationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|solutionrelative:finalproductcreationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|c:\\users\\hp\\desktop\\project-6\\finalproductcreationsystem\\finalproductcreationsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|solutionrelative:finalproductcreationsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|c:\\users\\hp\\desktop\\project-6\\finalproductcreationsystem\\finalproductcreationsystem\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|solutionrelative:finalproductcreationsystem\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|c:\\users\\hp\\desktop\\project-6\\finalproductcreationsystem\\finalproductcreationsystem\\productrepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|solutionrelative:finalproductcreationsystem\\productrepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|c:\\users\\hp\\desktop\\project-6\\finalproductcreationsystem\\finalproductcreationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|solutionrelative:finalproductcreationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|c:\\users\\hp\\desktop\\project-6\\finalproductcreationsystem\\finalproductcreationsystem\\finalproductcreationsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|solutionrelative:finalproductcreationsystem\\finalproductcreationsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|c:\\users\\hp\\desktop\\project-6\\finalproductcreationsystem\\finalproductcreationsystem\\model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9227F4-6A81-4535-9671-F5BA586AD8F3}|FinalProductCreationSystem\\FinalProductCreationSystem.csproj|solutionrelative:finalproductcreationsystem\\model\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240617072432_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Migrations\\20240617072432_initial migration.cs",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\Migrations\\20240617072432_initial migration.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Migrations\\20240617072432_initial migration.cs",
+              "RelativeToolTip": "FinalProductCreationSystem\\Migrations\\20240617072432_initial migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:24:32.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Model\\Product.cs",
+              "RelativeToolTip": "FinalProductCreationSystem\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:13:49.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "FinalProductCreationSystem\\Data\\ProductDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:55:24.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductConroller.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Controllers\\ProductConroller.cs",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\Controllers\\ProductConroller.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Controllers\\ProductConroller.cs",
+              "RelativeToolTip": "FinalProductCreationSystem\\Controllers\\ProductConroller.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:15:42.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\ProductRepository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\ProductRepository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\ProductRepository\\ProductRepository.cs",
+              "RelativeToolTip": "FinalProductCreationSystem\\ProductRepository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:08.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\ProductRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\ProductRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\ProductRepository\\IProductRepository.cs",
+              "RelativeToolTip": "FinalProductCreationSystem\\ProductRepository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:18:28.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\appsettings.json",
+              "RelativeToolTip": "FinalProductCreationSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T06:16:49.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\WeatherForecast.cs",
+              "RelativeToolTip": "FinalProductCreationSystem\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:18:57.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Program.cs",
+              "RelativeToolTip": "FinalProductCreationSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAANTMzMzMLwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:53:42.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinalProductCreationSystem.http",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\FinalProductCreationSystem.http",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\FinalProductCreationSystem.http",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\FinalProductCreationSystem.http",
+              "RelativeToolTip": "FinalProductCreationSystem\\FinalProductCreationSystem.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-17T07:18:27.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Model\\ProductDto.cs",
+              "RelativeDocumentMoniker": "FinalProductCreationSystem\\Model\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\project-6\\FinalProductCreationSystem\\FinalProductCreationSystem\\Model\\ProductDto.cs",
+              "RelativeToolTip": "FinalProductCreationSystem\\Model\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:05:01.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
